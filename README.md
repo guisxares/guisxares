@@ -6,12 +6,6 @@
   <ul>
     <li>Técnico em Desenvolvimento de Sistemas</li>
     <li>Cursando Engenharia da Computação</li>
-  </ul>
-</p>
-
-<p align="left">
-→ Hard Skills<br>
-  <ul>
     <li>💻 Linguagens: Java, C, C#, PHP</li>
   </ul>
 </p>
