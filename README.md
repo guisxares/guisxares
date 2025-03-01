@@ -6,6 +6,6 @@
   <ul>
     <li>Técnico em Desenvolvimento de Sistemas</li>
     <li>Cursando Engenharia da Computação</li>
-    <li>💻 Linguagens: Java, C, C#, PHP</li>
   </ul>
+  💻 Linguagens: Java, C, C#, PHP</li>
 </p>
