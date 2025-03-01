@@ -13,6 +13,5 @@
 → Hard Skills<br>
   <ul>
     <li>💻 Linguagens: Java, C, C#, PHP</li>
-    <li>📚 Aprendendo: React e Python</li>
   </ul>
 </p>
